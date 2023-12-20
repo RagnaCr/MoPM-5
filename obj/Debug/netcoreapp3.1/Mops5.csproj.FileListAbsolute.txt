@@ -1,0 +1,14 @@
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.exe
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.deps.json
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.runtimeconfig.json
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.runtimeconfig.dev.json
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.dll
+F:\Git\Mops5\bin\Debug\netcoreapp3.1\Mops5.pdb
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.csproj.AssemblyReference.cache
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.AssemblyInfoInputs.cache
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.AssemblyInfo.cs
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.csproj.CoreCompileInputs.cache
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.dll
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.pdb
+F:\Git\Mops5\obj\Debug\netcoreapp3.1\Mops5.genruntimeconfig.cache
